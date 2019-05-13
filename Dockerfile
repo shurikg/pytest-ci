@@ -4,4 +4,6 @@ RUN pip3 install --no-cache-dir \
         pytest \
         pytest-cov \
         requests \
-        fastapi
+        fastapi \
+        python-jenkins \
+        jenkinsapi

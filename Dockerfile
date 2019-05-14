@@ -7,3 +7,5 @@ RUN pip3 install --no-cache-dir \
         fastapi \
         python-jenkins \
         jenkinsapi
+
+WORKDIR /code
